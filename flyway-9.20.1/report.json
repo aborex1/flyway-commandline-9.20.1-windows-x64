@@ -1,0 +1,28 @@
+{
+  "individualResults": [
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "nest",
+          "type": "SQL",
+          "filepath": "C:\\Users\\drgid\\flyway-commandline-9.20.1-windows-x64\\flyway-9.20.1\\sql\\V1__nest.sql",
+          "executionTime": 62090
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.20.1",
+      "database": "peju",
+      "warnings": [],
+      "timestamp": "2023-07-20T20:21:38.171257600",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    }
+  ]
+}
